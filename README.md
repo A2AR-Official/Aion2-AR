@@ -8,7 +8,6 @@
 
 - **تعريب جزئي:** يعرض النصوص المدعومة بالعربية، مع بقاء بعض الأسماء والنصوص بالإنجليزية.
 - **مساعد أيون 2:** يعرض الضرر والعلاج ومواعيد الفعاليات أثناء اللعب.
-- **تحديثات من داخل المشغّل:** عند توفر إصدار جديد، يظهر زر «تحديث متوفر» لتنزيله وتثبيته.
 
 ### كيف أستخدمه؟
 
@@ -33,7 +32,6 @@ A2AR مشروع مستقل وغير تابع لمطوّر اللعبة.
 
 - **Partial Arabic translation:** Displays supported text in Arabic. Some names and text remain in English.
 - **AION 2 assistant:** Shows damage, healing, and event schedules while you play.
-- **Updates from the launcher:** When a new version is available, an update button lets you download and install it.
 
 ### How do I use it?
 
