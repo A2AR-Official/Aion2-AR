@@ -1,13 +1,15 @@
 # A2AR
 
+<div dir="rtl">
+
 ## العربية
 
-**A2AR مشغّل للعبة أيون 2 يجمع التعريب ومساعدًا داخل اللعبة في واجهة واحدة.**
+**مشغّل A2AR مخصّص لنسخة Steam من لعبة أيون 2، ويجمع التعريب ومساعدًا داخل اللعبة في واجهة واحدة.**
 
 ### ماذا يقدم؟
 
 - **تعريب جزئي:** يعرض النصوص المدعومة بالعربية، مع بقاء بعض الأسماء والنصوص بالإنجليزية.
-- **مساعد أيون 2:** يعرض الضرر والعلاج ومواعيد الفعاليات أثناء اللعب.
+- **مساعد أيون 2:** يعرض الضرر والعلاج أثناء اللعب، مع جدول مواعيد الفعاليات الخاص بسيرفر **EU**.
 
 ### كيف أستخدمه؟
 
@@ -18,18 +20,20 @@
 
 لظهور المساعد داخل اللعبة، اختر **Windowed Mode** أو **Borderless Window Mode** من إعدادات العرض.
 
-A2AR مشروع مستقل وغير تابع لمطوّر اللعبة.
+<p dir="rtl">مشروع A2AR مستقل وغير تابع لمطوّر اللعبة.</p>
+
+</div>
 
 ---
 
 ## English
 
-**A2AR is a launcher for AION 2 that brings a partial Arabic translation and an in-game assistant together in one place.**
+**A2AR is a launcher for the Steam version of AION 2 that brings a partial Arabic translation and an in-game assistant together in one place.**
 
 ### What does it do?
 
 - **Partial Arabic translation:** Displays supported text in Arabic. Some names and text remain in English.
-- **AION 2 assistant:** Shows damage, healing, and event schedules while you play.
+- **AION 2 assistant:** Shows damage and healing while you play, with an event schedule for the **EU server**.
 
 ### How do I use it?
 
