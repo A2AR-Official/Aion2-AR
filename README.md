@@ -13,7 +13,7 @@
 
 ### كيف أستخدمه؟
 
-1. [نزّل المثبّت A2AR-Setup.exe](https://github.com/SahorAR/A2AR-AION2/releases/latest/download/A2AR-Setup.exe) وشغّله، ثم اتبع خطوات التثبيت. **يكفي تنزيل هذا الملف فقط.**
+1. [نزّل المثبّت A2AR-Setup.exe](https://github.com/A2AR-Official/A2AR-AION2/releases/latest/download/A2AR-Setup.exe) وشغّله، ثم اتبع خطوات التثبيت. **يكفي تنزيل هذا الملف فقط.**
 2. افتح A2AR وفعّل الميزات التي تريد استخدامها: التعريب أو المساعد أو كليهما.
 3. اضغط زر **«تشغيل اللعبة»** في المشغّل.
 4. إذا فعّلت التعريب، اضبط لغة اللعبة على **English** قبل الدخول إلى عالم أيون 2.
@@ -37,7 +37,7 @@
 
 ### How do I use it?
 
-1. [Download A2AR-Setup.exe](https://github.com/SahorAR/A2AR-AION2/releases/latest/download/A2AR-Setup.exe), run it, and follow the installation steps. **This is the only file you need to download manually.**
+1. [Download A2AR-Setup.exe](https://github.com/A2AR-Official/A2AR-AION2/releases/latest/download/A2AR-Setup.exe), run it, and follow the installation steps. **This is the only file you need to download manually.**
 2. Open A2AR and enable the translation or assistant as needed. You can use either feature independently.
 3. If you enable the Arabic translation, select **English** as the game's language before entering the world of AION 2.
 4. Click the launch button in A2AR to start the game.
