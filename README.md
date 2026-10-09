@@ -18,8 +18,6 @@
 
 لظهور المساعد داخل اللعبة، اختر **Windowed Mode** أو **Borderless Window Mode** من إعدادات العرض.
 
-يفحص المشغّل التحديثات عند فتحه. عند الضغط على «تحديث متوفر»، يغلق اللعبة ويستعيد إعداداتها الأصلية أولًا، ثم ينزّل التحديث ويثبّته.
-
 A2AR مشروع مستقل وغير تابع لمطوّر اللعبة.
 
 ---
@@ -41,7 +39,5 @@ A2AR مشروع مستقل وغير تابع لمطوّر اللعبة.
 4. Click the launch button in A2AR to start the game.
 
 To see the assistant in-game, choose **Windowed Mode** or **Borderless Window Mode** in the game's display settings.
-
-The launcher checks for updates when opened. Clicking the update button closes the game and restores its original settings first, then downloads and installs the update.
 
 A2AR is an independent project and is not affiliated with the game's developer.
